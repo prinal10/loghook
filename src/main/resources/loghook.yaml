@@ -1,0 +1,11 @@
+packages:
+  - "com.example.ClassName.method(java.lang.String, int)"
+  - "com.example"
+customLogLine: ""
+useCustomLogLine: false
+logFilePath: "D:\\testing.txt"
+enableExternalLog: false
+useConsoleLogOnNoLogger: true
+processIds:
+  - "TEST_PROCESS_ID"
+logHookJarPath: "D:\\loghook\\target\\loghook-1.0-SNAPSHOT.jar"
